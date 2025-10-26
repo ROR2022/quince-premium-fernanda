@@ -57,8 +57,8 @@ export default function ParentsSection() {
     return `${baseClass} ${animClass}`.trim();
   };
   
-  const basicClass="font-main-text text-5xl text-indigo-500 mb-4";
-  const completeClass="font-main-text text-5xl text-indigo-500 mb-4 scale-up-center";
+  const basicClass="font-main-text text-5xl text-amber-500 mb-4";
+  const completeClass="font-main-text text-5xl text-amber-500 mb-4 scale-up-center";
   
 
   return (

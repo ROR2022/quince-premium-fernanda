@@ -29,7 +29,7 @@ export const quinceMainData = {
                 por cuidarme y guiarme en este camino.
                 Hace quince años mis padres agradecieron a Dios por mi vida. 
                 Hoy, yo agradezco a Dios por ellos, por su infinito amor y paciencia.`,
-      backgroundImage: "/images/quinceB&B4.jpeg",
+      backgroundImage: "/images/fondoVino.jpg",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
     godparents: {
@@ -38,7 +38,7 @@ export const quinceMainData = {
     },
     date: {
       full: "Sábado 03 de Enero 2026",
-      isoDate: "2025-01-03T15:00:00",
+      isoDate: "2026-01-03T15:00:00",
       day: "Sábado",
       dayNumber: "03",
       month: "Enero",
@@ -61,7 +61,7 @@ export const quinceMainData = {
       venue: "",
       address: "Quinta Cridisa Dirección 5 de Mayo 11 ,Emiliano Zapata C.P.62730 Yautepec Morelos",
       type: "Misa de Acción de Gracias",
-      ubiLink: "https://maps.app.goo.gl/WfeVYukpQg3CWC2T8",
+      ubiLink: "https://www.airbnb.mx/rooms/46727418?viralityEntryPoint=1&s=76",
       ceremonyImage: "/images/quince6.jpeg",
     },
     party: {
@@ -69,9 +69,9 @@ export const quinceMainData = {
       venue: "",
       address: "Quinta Cridisa Dirección 5 de Mayo 11 ,Emiliano Zapata C.P.62730 Yautepec Morelos",
       type: "Recepción",
-      ubiLink: "https://maps.app.goo.gl/qNFsbPPuwyCSMUim9",
+      ubiLink: "https://www.airbnb.mx/rooms/46727418?viralityEntryPoint=1&s=76",
     },
-    dressCode: "Formal - Rosa solo la quinceañera",
+    dressCode: "Jardin Formal - Rojo, Amarillo y Dorado solo la quinceañera",
     restrictions: "",
   },
   timeline: {
@@ -150,7 +150,7 @@ export const quinceMainData = {
   dressCode:{
     title: "Código de Vestimenta",
     message: "¡Vístete para impresionar!",
-    subtitle: "Código de vestimenta formal - Rosa solo la quinceañera",
+    subtitle: "Código de vestimenta Jardin Formal - Rojo, Amarillo y Dorado solo la quinceañera",
     restriction: "Restricción: No niños",
     backgroundImage: "/images/dressCode1.png",
   },
@@ -159,7 +159,7 @@ export const quinceMainData = {
     backgroundImage: "/images/countdown-bg.jpg",
   },
   attendance: {
-    whatsappNumber: "5217777937484",
+    whatsappNumber: "5215530806365", //+52 1 55 3080 6365
     title: "CONFIRMACIÓN DE ASISTENCIA",
     message: "Respetuosamente",
     subtitle: "Confirmar antes del evento.",
@@ -227,13 +227,13 @@ export const quinceMainData = {
         id: "image1",
         src: "/images/fer01.jpg",
         alt: "en sus XV años",
-        caption: "Momentos Especiales.",
+        caption: "",
       },
       {
         id: "image2",
         src: "/images/fer02.jpg",
         alt: "Baile de Quinceañera",
-        caption: "Momentos Especiales.",
+        caption: "",
       },
       {
         id: "image3",

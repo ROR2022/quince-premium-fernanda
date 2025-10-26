@@ -65,8 +65,8 @@ export default function DateSection() {
     return isVisible ? `animate-${animationType} ${delay}` : '';
   };
       
-  const basicClass="text-8xl font-bold text-indigo-500 mb-2";
-  const completeClass="text-8xl font-bold text-indigo-500 mb-2 animate-number-pulse";
+  const basicClass="text-8xl font-bold text-amber-500 mb-2";
+  const completeClass="text-8xl font-bold text-amber-500 mb-2 animate-number-pulse";
     
 
   // Configurar animación de scroll con fallback de carga inmediata
@@ -129,7 +129,7 @@ export default function DateSection() {
               style={{
                 textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',
               }}
-              className="font-main-text text-4xl font-bold holographic-text"
+              className="font-main-text text-4xl font-bold text-amber-500"
             >
               FECHA ESPECIAL
             </h2>

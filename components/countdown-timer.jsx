@@ -14,11 +14,16 @@ export default function CountdownTimer() {
   const { date } = event;
 
   useEffect(() => {
+    console.log("Event Date:", date.isoDate)
     const targetDate = new Date(date.isoDate).getTime()
+    //console.log("Target Date:", targetDate)
+    //console.log("Target Date (Formatted):", new Date(targetDate).toString())
 
     const timer = setInterval(() => {
       const now = new Date().getTime()
+      //console.log("Current Time:", now)
       const difference = targetDate - now
+      //console.log("Time Difference:", difference)
 
       if (difference > 0) {
         setTimeLeft({
