@@ -236,30 +236,47 @@ export const quinceMainData = {
         caption: "",
       },
       {
-        id: "image3",
-        src: "/images/fer03.jpg",
-        alt: "Corte de Pastel",
-        caption: "Momentos Especiales.",
-      },
-      {
         id: "image4",
         src: "/images/fer04.jpg",
         alt: "Celebración con Familia y Amigos",
-        caption: "Momentos Especiales.",
+        caption: "",
       },
       {
         id: "image5",
         src: "/images/fer05.jpg",
         alt: "Detalles del Evento",
-        caption: "Momentos Especiales.",
+        caption: "",
       },
       {
         id: "image6",
         src: "/images/fer06.jpg",
         alt: "Diversión en la Pista de Baile",
-        caption: "Momentos Especiales.",
+        caption: "",
       },
-      
+      {
+        id: "image7",
+        src: "/images/fer07.jpg",
+        alt: "Sesión de Fotos",
+        caption: "",
+      },
+      {
+        id: "image8",
+        src: "/images/fer08.jpg",
+        alt: "Brindis Especial",
+        caption: "",
+      },
+      {
+        id: "image9",
+        src: "/images/fer09.jpg",
+        alt: "Decoración del Evento",
+        caption: "",
+      },
+      {
+        id: "image10",
+        src: "/images/fer10.jpg",
+        alt: "Momentos Divertidos",
+        caption: "",
+      },
     ],
     imagesUrls: [
       "/images/rapunzel1.jpeg",
