@@ -32,7 +32,7 @@ export const quinceMainData = {
                 por cuidarme y guiarme en este camino.
                 Hace quince años mis padres agradecieron a Dios por mi vida. 
                 Hoy, yo agradezco a Dios por ellos, por su infinito amor y paciencia.`,
-      backgroundImage: "/images/fondoVino.jpg",
+      backgroundImage: "/images/fondoFer1.jpg",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
     godparents: {
@@ -64,7 +64,7 @@ export const quinceMainData = {
       venue: "",
       address: "Quinta Cridisa Dirección 5 de Mayo 11 ,Emiliano Zapata C.P.62730 Yautepec Morelos",
       type: "Misa de Acción de Gracias",
-      ubiLink: "https://www.airbnb.mx/rooms/46727418?viralityEntryPoint=1&s=76",
+      ubiLink: "https://maps.app.goo.gl/ZTksdQd8eKQKRdDp9?g_st=aw",
       ceremonyImage: "/images/quince6.jpeg",
     },
     party: {
@@ -72,7 +72,7 @@ export const quinceMainData = {
       venue: "",
       address: "Quinta Cridisa Dirección 5 de Mayo 11 ,Emiliano Zapata C.P.62730 Yautepec Morelos",
       type: "Recepción",
-      ubiLink: "https://www.airbnb.mx/rooms/46727418?viralityEntryPoint=1&s=76",
+      ubiLink: "https://maps.app.goo.gl/ZTksdQd8eKQKRdDp9?g_st=aw",
     },
     dressCode: "Jardin Formal - Rojo, Amarillo y Dorado solo la quinceañera",
     restrictions: "",
@@ -222,7 +222,7 @@ export const quinceMainData = {
   },
   gallery: {
     title: "Recuerdos Especiales",
-    subtitle: "Momentos inolvidables",
+    subtitle: "",
     description:
       "Cada imagen captura la esencia de este día tan especial. ¡Gracias por ser parte de estos recuerdos inolvidables!",
     images: [

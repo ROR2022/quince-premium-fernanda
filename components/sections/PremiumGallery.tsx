@@ -182,7 +182,7 @@ export function PremiumGallery() {
             : 'opacity-0 translate-y-8'
         }`}>
           <div>
-            <p className='text-gray-900'>Click en la imagen para ampliarla</p>
+            <p className='text-white'>Click en la imagen para ampliarla</p>
           </div>
         </div>
         {/* Galería principal con animación */}
