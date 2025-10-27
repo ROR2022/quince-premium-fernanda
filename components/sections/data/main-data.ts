@@ -8,10 +8,13 @@ export const quinceMainData = {
     backgroundCarrouselImages: [
       "/images/fer01.jpg",
       "/images/fer02.jpg",
-      "/images/fer03.jpg",
       "/images/fer04.jpg",
       "/images/fer05.jpg",
       "/images/fer06.jpg",
+      "/images/fer07.jpg",
+      "/images/fer08.jpg",
+      "/images/fer09.jpg",
+      "/images/fer10.jpg",
     ],
   },
   welcomeSection: {
