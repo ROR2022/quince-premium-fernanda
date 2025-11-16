@@ -32,7 +32,7 @@ export const quinceMainData = {
                 por cuidarme y guiarme en este camino.
                 Hace quince años mis padres agradecieron a Dios por mi vida. 
                 Hoy, yo agradezco a Dios por ellos, por su infinito amor y paciencia.`,
-      backgroundImage: "/images/fondoFer1.jpg",
+      backgroundImage: "/images/fondoFer02.png",
     },
     //Padrino Ma. Asunción Ramirez y Juan Gutiérrez
     godparents: {
@@ -153,7 +153,7 @@ export const quinceMainData = {
   dressCode:{
     title: "Código de Vestimenta",
     message: "¡Vístete para impresionar!",
-    subtitle: "Código de vestimenta Jardin Formal - Rojo, Amarillo y Dorado solo la quinceañera",
+    subtitle: "Código de vestimenta Jardin Formal - Azul solo la quinceañera",
     restriction: "Restricción: No niños",
     backgroundImage: "/images/dressCode1.png",
   },
